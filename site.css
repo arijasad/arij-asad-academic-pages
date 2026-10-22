@@ -199,3 +199,7 @@ figcaption {
   .site-footer { display: block; }
   .site-footer p + p { margin-top: 7px; }
 }
+
+.supporting-resources { margin: 1rem 0 2rem; font-size: 0.95em; }
+.supporting-resources summary { cursor: pointer; color: var(--muted, #526071); }
+.supporting-resources p { margin-top: 0.6rem; }
